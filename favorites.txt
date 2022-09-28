@@ -3,6 +3,9 @@ Harry Potter
 Shrek
 
 //edit from GitHub
-Apples
 Oranges
+Apples
 Bananas
+
+//edit from bash
+Berries
